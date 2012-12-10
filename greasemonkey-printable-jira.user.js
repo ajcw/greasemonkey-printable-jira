@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           Printing Jira tickets
 // @description    Formats the Jira tickets to be small printable boxes. Script is based on 'myCss' by Mike Cao
-// @include        https://opentable.atlassian.net/browse/*
+// @include        https://*.atlassian.net/browse/*
 // @namespace      http://www.ajcw.com/
 // @grant       	none
 // ==/UserScript==
