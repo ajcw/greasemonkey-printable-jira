@@ -41,7 +41,7 @@ function addStyle(style) {
 }
 
 // Hide content
-addStyle(".aui-header,.command-bar,.navigator-issue-only #stalker .page-navigation, header .breadcrumbs li, #heading-avatar, #footer, #activitymodule, #greenhopper-agile-issue-web-panel, #datesmodule, #descriptionmodule, #addcomment, #issuedetails, #details-module_heading, #peoplemodule_heading, #votes-val, #watchers-val, .twixi, #attachmentmodule {display:none !important;}");
+addStyle(".aui-header,.command-bar,.navigator-issue-only #stalker .page-navigation, header .breadcrumbs li, #heading-avatar, #footer, #activitymodule, #greenhopper-agile-issue-web-panel, #datesmodule, #descriptionmodule, #addcomment, #issuedetails, #details-module_heading, #peoplemodule_heading, #votes-val, #watchers-val, .twixi, #attachmentmodule, #linkingmodule {display:none !important;}");
 
 // Layout styles
 addStyle("body, #stalker {min-width: 0 !important;}");
