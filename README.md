@@ -10,3 +10,6 @@ How to use (Firefox):
 3. Click install
 
 The next time you visit an individual Jira ticket it will reformat the page to a printable card.  Disable the Greasmonkey script to revert back to the previous format.
+
+Update March 2013: The Atlassian OnDemand JIRA 6.0 redesign has changed some of the mark-up on the Jira ticket pages, so whilst the Greasemonkey script still works it doesn't hide all the same fields that it used to.
+
